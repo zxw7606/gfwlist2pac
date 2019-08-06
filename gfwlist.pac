@@ -3,7 +3,11 @@
  * GFWList Last-Modified: 2019-07-15 07:40:46
  */
 
+<<<<<<< HEAD
 var proxy = 'PROXY 192.168.123.1:2334';
+=======
+var proxy = 'SOCKS5 127.0.0.1:1080';
+>>>>>>> parent of fba839e... Update gfwlist.pac
 var rules = [
     [
         [],
