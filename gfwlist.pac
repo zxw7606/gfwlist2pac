@@ -4,10 +4,8 @@
  */
 
 <<<<<<< HEAD
-var proxy = 'PROXY 192.168.123.1:2334';
-=======
-var proxy = 'SOCKS5 127.0.0.1:1080';
->>>>>>> parent of fba839e... Update gfwlist.pac
+var proxy = 'SOCKS5 192.168.123.1:2334';
+
 var rules = [
     [
         [],
